@@ -25,6 +25,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define MASTER_LEFT
 #define SPLIT_USB_DETECT
+#define SPLIT_HAND_PIN F5
+#define	SPLIT_HAND_PIN_LOW_IS_LEFT
 
 /* COL2ROW or ROW2COL */
 #define DIODE_DIRECTION COL2ROW
